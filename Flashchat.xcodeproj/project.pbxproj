@@ -21,7 +21,7 @@
 		8A73552028A5489800678D21 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A73551F28A5489800678D21 /* Message.swift */; };
 		8A73552328A5611C00678D21 /* MessageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A73552128A5611C00678D21 /* MessageCell.swift */; };
 		8A73552428A5611C00678D21 /* MessageCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8A73552228A5611C00678D21 /* MessageCell.xib */; };
-		8AB6C31028A40A1C0092F7E0 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AB6C30F28A40A1C0092F7E0 /* GoogleService-Info.plist */; };
+		8A73555828A685A000678D21 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8A73555728A685A000678D21 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,7 +42,7 @@
 		8A73551F28A5489800678D21 /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
 		8A73552128A5611C00678D21 /* MessageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageCell.swift; sourceTree = "<group>"; };
 		8A73552228A5611C00678D21 /* MessageCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MessageCell.xib; sourceTree = "<group>"; };
-		8AB6C30F28A40A1C0092F7E0 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		8A73555728A685A000678D21 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../GoogleService-Info.plist"; sourceTree = "<group>"; };
 		E51F57503DBE37397495D85D /* Pods-Flashchat.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Flashchat.release.xcconfig"; path = "Target Support Files/Pods-Flashchat/Pods-Flashchat.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -97,7 +97,7 @@
 				8A59F49528A2C27C00300F58 /* Assets.xcassets */,
 				8A59F49728A2C27C00300F58 /* LaunchScreen.storyboard */,
 				8A59F49A28A2C27C00300F58 /* Info.plist */,
-				8AB6C30F28A40A1C0092F7E0 /* GoogleService-Info.plist */,
+				8A73555728A685A000678D21 /* GoogleService-Info.plist */,
 			);
 			path = Flashchat;
 			sourceTree = "<group>";
@@ -209,7 +209,7 @@
 			files = (
 				8A73552428A5611C00678D21 /* MessageCell.xib in Resources */,
 				8A59F49928A2C27C00300F58 /* LaunchScreen.storyboard in Resources */,
-				8AB6C31028A40A1C0092F7E0 /* GoogleService-Info.plist in Resources */,
+				8A73555828A685A000678D21 /* GoogleService-Info.plist in Resources */,
 				8A59F49628A2C27C00300F58 /* Assets.xcassets in Resources */,
 				8A59F49428A2C27B00300F58 /* Main.storyboard in Resources */,
 			);
